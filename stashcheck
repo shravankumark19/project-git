@@ -2,5 +2,9 @@ hello
 this is stash file which i created
 this is shravan file
 stash file created and worked on it
+<<<<<<< HEAD
 hjagfeahfgehibncejkfb
 
+=======
+123456789
+>>>>>>> cc9aff855497deb390359affae0c91437134e245
