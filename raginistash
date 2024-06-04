@@ -1,3 +1,7 @@
 hello 
 this is stash file
+<<<<<<< HEAD
 ragini is going to changes the file for git stash
+=======
+shravan 4th june 2024
+>>>>>>> 1c3f3ea8b52c7290b42d7d48d6a776214e43c5c3
